@@ -1,0 +1,9 @@
+#summary SR Player Changelog
+
+= Changelog =
+
+== 0.3 ==
+  * %-satser vissas nu under bufferring
+  * Mer information så som Nästa program.
+  * Flytt till Google codes och en på börjad merge med JDS.
+  * Paus av spelning vid inkommande samtal (del av merge från JDS kod).
