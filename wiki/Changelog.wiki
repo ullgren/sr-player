@@ -1,6 +1,11 @@
 #summary SR Player Changelog
 
 = Changelog =
+== 0.x ==
+  * Bugg rättningar
+  * Laggt till 4x1 och 2x1 Widgets 
+  * Nya extra kanaler
+  
 
 == 0.3 ==
   * %-satser vissas nu under bufferring
