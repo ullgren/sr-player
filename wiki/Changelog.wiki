@@ -1,10 +1,12 @@
 #summary SR Player Changelog
 
 = Changelog =
-== 0.x ==
+== 0.4 ==
   * Bugg rättningar
   * Laggt till 4x1 och 2x1 Widgets 
-  * Nya extra kanaler
+  * Nya extra kanaler (SR Klassisk Jul och SR Bjällerklang)
+  * Konfigrurerbar hämntnings frekvens för program info.
+  * Möjlighet att använda handsfree knappen för att starta/stoppa SRPlayer (måste slås på i Configuration).
   
 
 == 0.3 ==
