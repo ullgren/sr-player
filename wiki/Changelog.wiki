@@ -1,6 +1,10 @@
 #summary SR Player Changelog
 
 = Changelog =
+== 0.5 ==
+  * Nytt GUI
+  * Endel bugg rättningar
+
 == 0.4 ==
   * Bugg rättningar
   * Laggt till 4x1 och 2x1 Widgets 
