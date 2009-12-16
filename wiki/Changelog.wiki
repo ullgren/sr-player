@@ -1,6 +1,15 @@
 #summary SR Player Changelog
 
 = Changelog =
+
+== 0.6 ==
+  * Sleep funktion
+  * Ändrat till rätt license i källkoden (issue #9)
+  * Möjlighet att stänga ner service med Meny - Stäng av (issue #10)
+  * Widget visar nu låt info om program info inte finns (issue #12)
+  * Knappen på headsetet inte stänger av/pausar nu radion. (issue #5)
+  * Ändrade RTSP URL för SR Bjällerklang och Klassisk Jul
+
 == 0.5 ==
   * Nytt GUI
   * Endel bugg rättningar
