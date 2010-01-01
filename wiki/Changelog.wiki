@@ -1,6 +1,9 @@
 #summary SR Player Changelog
 
 = Changelog =
+== 0.7 ==
+  * Stöd för podcasts
+  * Ny inställning för att hämta kanalinfo vid pause
 
 == 0.6 ==
   * Sleep funktion
