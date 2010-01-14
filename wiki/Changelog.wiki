@@ -2,7 +2,7 @@
 
 = Changelog =
 == 0.7.1 ==
-  * WVGA fix (issue #19 #20 #21)
+  * WVGA fix (issue #19,issue #20, issue #21)
   * Länk till FAQ ifrån About
   * Felmeddelande då man försöker spola på Android 1.6 och efter
 
