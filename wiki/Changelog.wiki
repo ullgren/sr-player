@@ -1,6 +1,11 @@
 #summary SR Player Changelog
 
 = Changelog =
+== 0.7.1 ==
+  * WVGA fix
+  * Länk till FAQ ifrån About
+  * Felmeddelande då man försöker spola på Android 1.6 och efter
+
 == 0.7 ==
   * Stöd för podcasts
   * Ny inställning för att hämta kanalinfo vid pause
