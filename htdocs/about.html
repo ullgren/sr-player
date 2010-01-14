@@ -1,5 +1,16 @@
- <html> 
+<html> 
 <body>
-<b>Test av en FAQ via en alertdialog och en webview</b>
+<table>
+<tr><td><a href="#wlan">Varför fungerar det inte att lyssna via trådlöst nätverk?</a></td></tr>
+<tr><td><a href="#p4">Var är alla P4 kanaler?</a></td></tr>
+<tr><td><a name="wlan"><b>Varför fungerar det inte att lyssna via trådlöst nätverk?</a></td></tr>
+<tr><td>Sveriges Radios Live strömmar skickas över RTSP. Detta protokoll använder att antal portar för såväl själva ljudet och för att kommunicera med servern. För att detta skall fungera så måste eventuella brandväggar tillåta detta och dessutom skicka paketen till telefonen. När man lyssnar via 3G så finns ingen brandvägg och man har inte detta problemet. Hur ställer man då in sin brandvägg för att detta skall fungera? Vissa routrar behöver inte ställas in alls, utan är så pass avancerade/intelligenta att de autoamtiskt känner igen RTSP strömmar och skickar dem vidare till rätt enhet, andra måste man manuellt ställa in. Då man ställer in routern manuellt så gör man det genom att låta utgående <b>tcp port 554</b> öppna inkommande <b>udp port 6970-7200</b>.</tr></td>
+<tr><td></tr></td>
+
+<tr><td><a name="p4"><b>Var är alla P4 kanaler?</a></tr></td>
+<tr><td>Tyvärr så kan inte sveriges radio i dagsläget erbjuda alla P4 kanaler i ett format som stödjs av Androids mediaspelare utan enbart i windows och real-audio. SR jobbar dock på detta och när/om dessa kanaler i framtiden kommer erbjudas i ett annat format kommer de läggas till i programmet.</tr></td>
+<tr><td></tr></td>
+
+</table>
 </body>
 </html>
