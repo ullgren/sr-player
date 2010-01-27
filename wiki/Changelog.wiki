@@ -1,6 +1,10 @@
 #summary SR Player Changelog
 
 = Changelog =
+== 0.7.3 ==
+  * Offline listening
+  * Favorites support
+
 == 0.7.1 ==
   * WVGA fix (issue #19,issue #20, issue #21)
   * Länk till FAQ ifrån About
