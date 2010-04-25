@@ -3,7 +3,7 @@
 = Changelog =
 == 0.8 ==
   * Alarm (issue #1)
-  * Fixed bug causing player getting stuck when changing program/channel without pause
+  * Fix av bugg som gjorde att spelaren hängde sig ifall man bytte program/kanal utan att pausa innan
 
 == 0.7.3 ==
   * Offline listening
