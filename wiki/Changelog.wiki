@@ -1,4 +1,8 @@
 #summary SR Player Changelog
+== 0.8.1 ==
+  * SR Colors
+  * Remembers channel/program even when service is killed
+  * When back is used to open the previous list the position is remembered
 
 = Changelog =
 == 0.8 ==
