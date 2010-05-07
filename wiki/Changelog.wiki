@@ -1,4 +1,10 @@
 #summary SR Player Changelog
+== 0.8.2 ==
+  * Import/Export of favorites
+  * 2.1 graphical fixes
+  * Alphabetic quick scroll
+
+
 == 0.8.1 ==
   * SR Colors
   * Remembers channel/program even when service is killed
