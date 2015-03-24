@@ -1,0 +1,5 @@
+This is a player for Android to play the Public Swedish Radio (SR) live and pod radio streams.
+
+| ![![](http://sr-player.googlecode.com/svn/htdocs/images/Live.png)](http://sr-player.googlecode.com/svn/htdocs/images/Live.png) | ![![](http://sr-player.googlecode.com/svn/htdocs/images/Pod.png)](http://sr-player.googlecode.com/svn/htdocs/images/Pod.png) |
+|:-------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| ![![](http://sr-player.googlecode.com/svn/htdocs/images/Kategorier.png)](http://sr-player.googlecode.com/svn/htdocs/images/Kategorier.png) |![![](http://sr-player.googlecode.com/svn/htdocs/images/Widget_0.7.png)](http://sr-player.googlecode.com/svn/htdocs/images/Widget_0.7.png) |
